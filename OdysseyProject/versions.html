@@ -76,7 +76,7 @@
         for (const section of links) {
             for(const link of section.links){
                 var l = document.createElement("a")
-                l.href = `octhulu.github.io/OdysseyProject/${link}`
+                l.href = link
                 l.innerHTML = link
 
                 section.header.appendChild(l)
