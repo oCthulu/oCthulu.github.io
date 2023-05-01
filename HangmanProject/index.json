@@ -1,5 +1,6 @@
 {
     "files":[
-        {"name":"Random Guesser", "file":"games_random_guesser.json"}
+        {"name":"Random Guesser", "file":"games_random_guesser.json"},
+        {"name":"Weighted Guesser", "file":"games_weighted_guesser.json"}
     ]
 }
